@@ -1,1 +1,1 @@
-import './src/identity.spec';
+import './src/city-types/Types.spec';
